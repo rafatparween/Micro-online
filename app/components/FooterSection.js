@@ -11,6 +11,9 @@ const FooterSection = () => {
         <div>
           <ul>
             <li className="mb-2 text-white font-semibold">About Us</li>
+            <Link legacyBehavior href="/about">
+              <a className="mb-2 hover:text-gray-400 cursor-pointer">About Us</a>
+            </Link> 
             <li className="mb-2 hover:text-gray-400 cursor-pointer">Contact Printer</li>
             <li className="mb-2 hover:text-gray-400 cursor-pointer">Careers</li>
             <li className="mb-2 hover:text-gray-400 cursor-pointer">Investor relations</li>
@@ -42,7 +45,10 @@ const FooterSection = () => {
             <Link legacyBehavior href="/policy">
               <a className="mb-2 hover:text-gray-400 cursor-pointer">Privacy Policy</a>
             </Link> 
-            <li className="mb-2 hover:text-gray-400 cursor-pointer">Support & troubleshooting</li>
+            <br/>
+            <Link legacyBehavior href="/disclaimer">
+              <a className="mb-2 hover:text-gray-400 cursor-pointer">Disclaimer</a>
+            </Link >
             <li className="mb-2 hover:text-gray-400 cursor-pointer">Download drivers</li>
             <li className="mb-2 hover:text-gray-400 cursor-pointer">Register your product</li>
             <li className="mb-2 hover:text-gray-400 cursor-pointer">Authorized service providers</li>

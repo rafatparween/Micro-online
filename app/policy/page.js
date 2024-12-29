@@ -9,7 +9,7 @@ export default function Privacy() {
         <section>
           <h3 className="text-2xl font-semibold text-gray-900 mb-4">Introduction</h3>
           <p>
-            At 123-PrinterSolution, we are dedicated to maintaining the privacy and security of your personal information. This Privacy Policy explains how we collect, use, store, and protect your personal data when you interact with our website or use our services. By using our website or services, you consent to the practices outlined in this policy.
+            At Micro-Sonic.online, we are dedicated to maintaining the privacy and security of your personal information. This Privacy Policy explains how we collect, use, store, and protect your personal data when you interact with our website or use our services. By using our website or services, you consent to the practices outlined in this policy.
           </p>
         </section>
         
@@ -70,7 +70,7 @@ export default function Privacy() {
         <section>
           <h3 className="text-2xl font-semibold text-gray-900 mb-4">Changes to This Privacy Policy</h3>
           <p>
-            123-PrinterSolution may update this Privacy Policy periodically to reflect changes in our practices, legal requirements, or business operations. Any changes will be posted on this page with the updated date. We encourage you to review this policy regularly for the latest information.
+            Micro-Sonic.online may update this Privacy Policy periodically to reflect changes in our practices, legal requirements, or business operations. Any changes will be posted on this page with the updated date. We encourage you to review this policy regularly for the latest information.
           </p>
         </section>
         
@@ -87,9 +87,9 @@ export default function Privacy() {
             If you have any questions or concerns about this Privacy Policy or how your personal information is handled, please feel free to contact us:
           </p>
           <p className="mt-4">
-            Email: support@123printersolution.com <br />
-            Phone: 1-800-123-PRNT <br />
-            Address: 123-PrinterSolution, 456 Print Avenue, Print City, USA
+            Email: support@micro-sonic.online <br />
+            Phone: 1-800-MICRO-SONIC <br />
+            Address: Micro-Sonic.online, 123 Sonic Avenue, Tech City, USA
           </p>
         </section>
         
