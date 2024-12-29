@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "micro-sonic.online",
-  description: "hewlett-printer-solution",
+  description: "micro-sonic.online",
 };
 
 export default function RootLayout({ children }) {
