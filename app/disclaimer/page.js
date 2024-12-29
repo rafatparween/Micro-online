@@ -21,4 +21,4 @@ const Disclaimer = () => {
   );
 };
 
-export default Disclaimer;
+export default Disclaimer
