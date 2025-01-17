@@ -1,4 +1,4 @@
-// File: /home/rafat/micro_double/app/services/Pages/page.js
+// File: /home/rafat/slider_micro/app/services/Pages/page.js
 import * as entry from '../../../../../app/services/Pages/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
